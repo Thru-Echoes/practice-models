@@ -2,6 +2,8 @@
 
 Creating mathematical / statistical models and computer simulations requires a host of computer programming abilities. However, understanding how to conceptualize models and simulations is a necessary precursor and can be done irrespective of programming and even a computer. This repository will have some example systems (with a focus on ecological systems) that require models and simulations built for them. Anyone using this repository should go through the steps of model building for each example <strong>WITHOUT THE USE OF A COMPUTER!</strong>
 
+This is featured on my [blog site](http://thru-echoes.github.io/learning-to-model/). 
+
 ## Steps to Building a Model
 
 Most of the steps involved with building a model do not require programming or a computer at all. In fact, modelers should always (with some exceptions here and there) do nearly all of the modeling without a computer. Programming and creating the computer simulation is almost always the last step in the process.

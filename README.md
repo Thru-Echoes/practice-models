@@ -2,7 +2,13 @@
 
 Creating mathematical / statistical models and computer simulations requires a host of computer programming abilities. However, understanding how to conceptualize models and simulations is a necessary precursor and can be done irrespective of programming and even a computer. This repository will have some example systems (with a focus on ecological systems) that require models and simulations built for them. Anyone using this repository should go through the steps of model building for each example <strong>WITHOUT THE USE OF A COMPUTER!</strong>
 
-This is featured on my [blog site](http://thru-echoes.github.io/learning-to-model/). 
+This is featured on my [blog site](http://thru-echoes.github.io/learning-to-model/).
+
+## Git How To
+
+It is very useful to use version control systems like <strong>git</strong> with (or without) <strong>Github</strong>. I have included some cheat sheets in English and several other languages (not written by me). In addition, I have a markdown write-up describing the basic steps to starting out with git in the Command-Line (i.e. Terminal).
+
+<hr>
 
 ## Steps to Building a Model
 
